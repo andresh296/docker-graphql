@@ -31,4 +31,4 @@ jobs:
 
     - name: Push Docker Image
       run: |
-        docker push andresh29/docker-graph:0.0.2 .
+        docker push andresh29/docker-graph:0.0.2
